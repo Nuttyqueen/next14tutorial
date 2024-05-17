@@ -1,7 +1,18 @@
 {
+<<<<<<< HEAD
   "extends": ["eslint:recommended", "next/core-web-vitals"],
+=======
+  "extends": [
+    "eslint:recommended",
+    "next/core-web-vitals"
+  ],
+>>>>>>> 52f586144dafb62c071571e2d71dfda76e45b5c8
   "rules": {
     "react/prop-types": "off",
     "no-unused-vars": "warn"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 52f586144dafb62c071571e2d71dfda76e45b5c8
