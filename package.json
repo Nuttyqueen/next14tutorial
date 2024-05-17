@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "next14tutorial",
-=======
-  "name": "next14starter",
->>>>>>> 52f586144dafb62c071571e2d71dfda76e45b5c8
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -15,18 +11,10 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-<<<<<<< HEAD
     "next": "14.2.3"
   },
   "devDependencies": {
     "eslint": "^8",
     "eslint-config-next": "14.2.3"
-=======
-    "next": "14.0.4"
-  },
-  "devDependencies": {
-    "eslint": "^8",
-    "eslint-config-next": "14.0.4"
->>>>>>> 52f586144dafb62c071571e2d71dfda76e45b5c8
   }
 }
